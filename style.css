@@ -1,0 +1,16 @@
+body {
+    background: lime;
+}
+h1 {
+	color:indigo;
+	font-family: 'Noto Serif', serif;
+
+}
+img{
+	width: 80px;
+}
+.img-rotate:hover{
+	width: 400px;
+	transform: rotate(360deg);
+	transition:.9s;
+}
